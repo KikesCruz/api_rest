@@ -4,12 +4,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Enrique\\ApiRest\\": "src/"
-        }
-    },
-    "files":[
+            "App\\": "src/"
+        },
+        "files":[
         "src/helpers.php"
-    ],
+        ]
+    },
     "authors": [
         {
             "name": "enrique cruz"
